@@ -425,3 +425,13 @@ textarea {
 #nav li a {
   color: #f2f2f2;
 }
+
+@media (max-width: 600px){
+  .column img{
+    width: 80%;
+  }
+  .double .column{
+    text-align: center
+  }
+
+}
